@@ -1,0 +1,4 @@
+Hello, World! Это мой первый коммит для роли Builders & Founders
+
+Initial commit: Add hello message
+
